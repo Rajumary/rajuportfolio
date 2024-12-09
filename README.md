@@ -5,8 +5,8 @@ This is my Portfolio Website
 **Files**: index.html
 
 **Description**:A basic portfolio website that utilizes HTML and CSS.
-
-    Your portfolio website is live, i.e. deployed on either GitHub Pages, or deployed as a purchased domain with a host.
+My portfolio website is live, deployed on GitHub pages
+   
 **Project 1**: Live project(portfolio website)
     In this project use HTML and CSS technologies.
 **Project 2**:**HTML and CSS Projects
