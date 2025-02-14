@@ -11,7 +11,7 @@ Key Concepts: Classes, inheritance, polymorphism, exception handling, file I/O.
 
 **Technologies:** C#, .NET Core
 
-***2. Employee Management System*
+**2. Employee Management System**
 
 **Description:** A simple console application that manages employee data. The program allows users to add, update, and remove employee records, while also implementing LINQ queries to filter employee data by various attributes.
 Key Concepts: Classes, properties, LINQ, collections (Lists, Dictionaries), data filtering.
